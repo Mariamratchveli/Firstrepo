@@ -1,0 +1,27 @@
+body {
+    background-color: #fff;
+}
+
+img {
+  border: 1px solid #ddd;
+  border-radius: 100px;
+  padding: 5px;
+  width: 150px;
+}
+div {
+    border-color: yellow;
+    border-width: 16px;
+    border-right: 16px;
+    border-bottom: 16px;
+    border-left: 16px;
+
+    padding-top: 16px;
+
+    padding-bottom: 16px;
+
+    padding-left: 8px;
+
+    padding-right: 8px;
+
+}
+
